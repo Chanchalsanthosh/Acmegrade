@@ -1,4 +1,4 @@
-APP/Website
+Website
 B2C E-Commerce MVP USP
 
   Roles and Responsibilities
@@ -63,4 +63,5 @@ B2C E-Commerce MVP USP
 
    vendor upload any product
    client will consume the product by view ans placing the order
+
   
